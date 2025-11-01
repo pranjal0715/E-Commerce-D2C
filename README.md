@@ -34,3 +34,10 @@ This Shopify theme powers the brand’s official e-commerce platform.
 ---
 
 ## 🧩 Folder Structure
+/assets → JS, CSS, and media files
+/config → Theme settings & custom schema
+/layout → Theme layout files
+/locales → Language support (en.json)
+/sections → Custom-built Shopify sections
+/snippets → Reusable partials and UI components
+/templates → Page, product, and collection templates
