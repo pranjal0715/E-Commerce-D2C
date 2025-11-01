@@ -790,9 +790,22 @@ button:focus-visible, input:focus-visible, optgroup:focus-visible, select:focus-
 }
 
 .menu-dropdown__content--megamenu {
-  width: 100%;
+  width: auto;
+  max-width: 90vw;
+  min-width: 800px;
   background: var(--white);
   box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.12);
+}
+.main-menu__nav-item.menu-dropdown--mega:not(.width_custom_pos) {
+  position: static;
+  overflow: visible;
+}
+.main-menu__nav-item.menu-dropdown--mega:not(.width_custom_pos) .menu-dropdown__content--megamenu {
+  left: max(10px, calc(50% - min(45vw, 720px)));
+  transform: none;
+  width: auto;
+  max-width: calc(100vw - 20px);
+  min-width: 800px;
 }
 .menu-dropdown__content--megamenu .menu-row {
   max-width: 1440px;
