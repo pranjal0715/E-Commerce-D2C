@@ -41,3 +41,4 @@ This Shopify theme powers the brand’s official e-commerce platform.
 /sections → Custom-built Shopify sections
 /snippets → Reusable partials and UI components
 /templates → Page, product, and collection templates
+
