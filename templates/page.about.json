@@ -1,0 +1,807 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumb": {
+      "type": "page-breadcrumb",
+      "settings": {
+        "enable": true,
+        "bgimage": true,
+        "image": "shopify://shop_images/bg-breadcrumb.jpg",
+        "show_pagetitle": true,
+        "show_breadcrumb": true,
+        "color_breadcrumb": "#ffffff",
+        "align_breadcrumb": "right"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "enable": false,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "featured_custom_section_agR8fi": {
+      "type": "featured-custom-section",
+      "blocks": {
+        "column_hLYqj4": {
+          "type": "_column",
+          "settings": {
+            "width": 100,
+            "padding": "",
+            "margin": "",
+            "width_lap": 100,
+            "width_tab": 100,
+            "width_mobi": 100
+          },
+          "blocks": {
+            "brands_g3nacm": {
+              "type": "brands",
+              "settings": {
+                "padding": "",
+                "margin": "",
+                "navigation": true,
+                "infinite": true,
+                "autoplay": false,
+                "autoplay_speed": "10000",
+                "columns": 5,
+                "column1440": 5,
+                "column1": 4,
+                "column2": 3,
+                "column3": 2,
+                "column4": 2,
+                "effect": "wobble-horizontal"
+              },
+              "blocks": {
+                "brand_m7YpE3": {
+                  "type": "_brand",
+                  "settings": {
+                    "image": "shopify://shop_images/bran-1.png",
+                    "name": "Brand",
+                    "url": "shopify://collections/all"
+                  }
+                },
+                "brand_kwRBjn": {
+                  "type": "_brand",
+                  "settings": {
+                    "image": "shopify://shop_images/bran-2.png",
+                    "name": "Brand",
+                    "url": "shopify://collections/all"
+                  }
+                },
+                "brand_nLxVyA": {
+                  "type": "_brand",
+                  "settings": {
+                    "image": "shopify://shop_images/bran-3.png",
+                    "name": "Brand",
+                    "url": "shopify://collections/all"
+                  }
+                },
+                "brand_hgqDLU": {
+                  "type": "_brand",
+                  "settings": {
+                    "image": "shopify://shop_images/bran-4.png",
+                    "name": "Brand",
+                    "url": "shopify://collections/all"
+                  }
+                },
+                "brand_wXrPYg": {
+                  "type": "_brand",
+                  "settings": {
+                    "image": "shopify://shop_images/brand-5.png",
+                    "name": "Brand",
+                    "url": "shopify://collections/all"
+                  }
+                }
+              },
+              "block_order": [
+                "brand_m7YpE3",
+                "brand_kwRBjn",
+                "brand_nLxVyA",
+                "brand_hgqDLU",
+                "brand_wXrPYg"
+              ]
+            }
+          },
+          "block_order": [
+            "brands_g3nacm"
+          ]
+        }
+      },
+      "block_order": [
+        "column_hLYqj4"
+      ],
+      "settings": {
+        "max_width": "1770px",
+        "fullwidth": false,
+        "background_color": "",
+        "background_fixed": false,
+        "background_size": "cover",
+        "background_pos": "center center",
+        "padding": "",
+        "margin": "-70px 0 30px | | | -70px 0 50px",
+        "vertical_align": "top",
+        "horizontal_align": "left"
+      }
+    },
+    "featured_custom_section_XUqgnR": {
+      "type": "featured-custom-section",
+      "blocks": {
+        "column_93HbfK": {
+          "type": "_column",
+          "settings": {
+            "width": 50,
+            "padding": "0 12% | 0 15px",
+            "margin": "| | | 0 0 30px",
+            "width_lap": 50,
+            "width_tab": 50,
+            "width_mobi": 100
+          },
+          "blocks": {
+            "title_3dwLkt": {
+              "type": "title",
+              "settings": {
+                "heading_size": "h3",
+                "title": "Enhancing Your Style",
+                "font": "--font-family-second",
+                "color": "#000000",
+                "font_size": 45,
+                "line_height": 50,
+                "letter_spacing": 0,
+                "font_weight": "400",
+                "align": "left",
+                "padding": "",
+                "margin": "0px 0px 33px 0px | | | 0px 0px 20px 0px",
+                "color_mobi": "#000000",
+                "font_size_mobi": 25,
+                "line_height_mobi": 35,
+                "letter_spacing_mobi": 0,
+                "align_mobi": "left"
+              }
+            },
+            "text_block_jqDfpj": {
+              "type": "text-block",
+              "settings": {
+                "title": "Together with you, enhance your temperament - affirm your luxurious<br>\nbeauty with impressive designs...",
+                "font": "--font-family-base",
+                "color": "#000000",
+                "font_size": 16,
+                "line_height": 26,
+                "letter_spacing": 0,
+                "font_weight": "400",
+                "align": "left",
+                "padding": "",
+                "margin": "0px 0px 72px 0px | | | 0 0 30px",
+                "color_mobi": "#000000",
+                "font_size_mobi": 15,
+                "line_height_mobi": 25,
+                "letter_spacing_mobi": 0,
+                "align_mobi": "left"
+              }
+            },
+            "button_4amrz9": {
+              "type": "button",
+              "settings": {
+                "title": "Shop Now",
+                "font": "--font-family-base",
+                "icon_title": "",
+                "font_icon": 14,
+                "margin_icon": 0,
+                "button_link": "",
+                "border_radius": "0px 0px 0px 0px",
+                "border": true,
+                "border_width": "1px",
+                "color": "#000000",
+                "background": "rgba(0,0,0,0)",
+                "border_color": "#000000",
+                "color_hover": "#ffffff",
+                "background_hover": "#63512d",
+                "border_color_hover": "#63512d",
+                "font_size": 15,
+                "line_height": 45,
+                "letter_spacing": 0,
+                "font_weight": "400",
+                "padding": "0 40px | | | 0 25px",
+                "margin": "",
+                "align": "left",
+                "font_size_mobi": 14,
+                "font_icon_mobi": 14,
+                "margin_icon_mobi": 0,
+                "line_height_mobi": 40,
+                "letter_spacing_mobi": 0,
+                "border_radius_mobi": "0px 0px 0px 0px",
+                "border_mobi": true,
+                "border_width_mobi": "1px",
+                "color_mobi": "#000000",
+                "background_mobi": "rgba(0,0,0,0)",
+                "border_color_mobi": "#000000",
+                "color_hover_mobi": "#ffffff",
+                "background_hover_mobi": "#63512d",
+                "border_color_hover_mobi": "#63512d",
+                "align_mobi": "left"
+              }
+            }
+          },
+          "block_order": [
+            "title_3dwLkt",
+            "text_block_jqDfpj",
+            "button_4amrz9"
+          ]
+        },
+        "column_iAjyNj": {
+          "type": "_column",
+          "settings": {
+            "width": 50,
+            "padding": "0",
+            "margin": "",
+            "width_lap": 50,
+            "width_tab": 50,
+            "width_mobi": 100
+          },
+          "blocks": {
+            "image_3AK9T3": {
+              "type": "image",
+              "settings": {
+                "image": "shopify://shop_images/about-1.jpg",
+                "url": "#",
+                "padding": "",
+                "margin": "",
+                "size": "",
+                "image_size": "cover",
+                "image_pos": "center center",
+                "align": "left",
+                "border_radius": "0px 0px 0px 0px",
+                "border": false,
+                "border_width": "0px 0px 0px 0px",
+                "border_color": "#ffffff",
+                "effect": "grow",
+                "align_mobi": "left"
+              }
+            }
+          },
+          "block_order": [
+            "image_3AK9T3"
+          ]
+        }
+      },
+      "block_order": [
+        "column_93HbfK",
+        "column_iAjyNj"
+      ],
+      "settings": {
+        "max_width": "1470px",
+        "fullwidth": true,
+        "background_color": "",
+        "background_fixed": false,
+        "background_size": "cover",
+        "background_pos": "center center",
+        "padding": "",
+        "margin": "0",
+        "vertical_align": "middle",
+        "horizontal_align": "left"
+      }
+    },
+    "featured_custom_section_rnPam4": {
+      "type": "featured-custom-section",
+      "blocks": {
+        "column_fjVCnj": {
+          "type": "_column",
+          "settings": {
+            "width": 50,
+            "padding": "0",
+            "margin": "| | | 0 0 30px",
+            "width_lap": 50,
+            "width_tab": 50,
+            "width_mobi": 100
+          },
+          "blocks": {
+            "image_QrCF4n": {
+              "type": "image",
+              "settings": {
+                "image": "shopify://shop_images/about-2.jpg",
+                "url": "#",
+                "padding": "",
+                "margin": "",
+                "size": "",
+                "image_size": "cover",
+                "image_pos": "center center",
+                "align": "left",
+                "border_radius": "0px 0px 0px 0px",
+                "border": false,
+                "border_width": "0px 0px 0px 0px",
+                "border_color": "#ffffff",
+                "effect": "grow",
+                "align_mobi": "left"
+              }
+            }
+          },
+          "block_order": [
+            "image_QrCF4n"
+          ]
+        },
+        "column_Xg9FR8": {
+          "type": "_column",
+          "settings": {
+            "width": 50,
+            "padding": "0 12% | 0 15px",
+            "margin": "",
+            "width_lap": 50,
+            "width_tab": 50,
+            "width_mobi": 100
+          },
+          "blocks": {
+            "title_VdNbyL": {
+              "type": "title",
+              "settings": {
+                "heading_size": "h3",
+                "title": "Ensemble with Earrings",
+                "font": "--font-family-second",
+                "color": "#000000",
+                "font_size": 45,
+                "line_height": 50,
+                "letter_spacing": 0,
+                "font_weight": "400",
+                "align": "left",
+                "padding": "",
+                "margin": "0px 0px 33px 0px | | | 0px 0px 20px 0px",
+                "color_mobi": "#000000",
+                "font_size_mobi": 25,
+                "line_height_mobi": 35,
+                "letter_spacing_mobi": 0,
+                "align_mobi": "left"
+              }
+            },
+            "text_block_r3njqk": {
+              "type": "text-block",
+              "settings": {
+                "title": "Genuine gold and silver jewelry for young people, elegant design,<br> diverse\ndesigns help you perfect and transform your daily style",
+                "font": "--font-family-base",
+                "color": "#000000",
+                "font_size": 16,
+                "line_height": 26,
+                "letter_spacing": 0,
+                "font_weight": "400",
+                "align": "left",
+                "padding": "",
+                "margin": "0px 0px 72px 0px | | | 0 0 30px",
+                "color_mobi": "#000000",
+                "font_size_mobi": 15,
+                "line_height_mobi": 25,
+                "letter_spacing_mobi": 0,
+                "align_mobi": "left"
+              }
+            },
+            "button_YUPYMg": {
+              "type": "button",
+              "settings": {
+                "title": "Shop Now",
+                "font": "--font-family-base",
+                "icon_title": "",
+                "font_icon": 14,
+                "margin_icon": 0,
+                "button_link": "",
+                "border_radius": "0px 0px 0px 0px",
+                "border": true,
+                "border_width": "1px",
+                "color": "#000000",
+                "background": "rgba(0,0,0,0)",
+                "border_color": "#000000",
+                "color_hover": "#ffffff",
+                "background_hover": "#63512d",
+                "border_color_hover": "#63512d",
+                "font_size": 15,
+                "line_height": 45,
+                "letter_spacing": 0,
+                "font_weight": "400",
+                "padding": "0 40px | | | 0 25px",
+                "margin": "",
+                "align": "left",
+                "font_size_mobi": 14,
+                "font_icon_mobi": 14,
+                "margin_icon_mobi": 0,
+                "line_height_mobi": 40,
+                "letter_spacing_mobi": 0,
+                "border_radius_mobi": "0px 0px 0px 0px",
+                "border_mobi": true,
+                "border_width_mobi": "1px",
+                "color_mobi": "#000000",
+                "background_mobi": "rgba(0,0,0,0)",
+                "border_color_mobi": "#000000",
+                "color_hover_mobi": "#ffffff",
+                "background_hover_mobi": "#63512d",
+                "border_color_hover_mobi": "#63512d",
+                "align_mobi": "left"
+              }
+            }
+          },
+          "block_order": [
+            "title_VdNbyL",
+            "text_block_r3njqk",
+            "button_YUPYMg"
+          ]
+        }
+      },
+      "block_order": [
+        "column_fjVCnj",
+        "column_Xg9FR8"
+      ],
+      "settings": {
+        "max_width": "1470px",
+        "fullwidth": true,
+        "background_color": "",
+        "background_fixed": false,
+        "background_size": "cover",
+        "background_pos": "center center",
+        "padding": "",
+        "margin": "0 0 85px",
+        "vertical_align": "middle",
+        "horizontal_align": "left"
+      }
+    },
+    "featured_custom_section_CWTnKi": {
+      "type": "featured-custom-section",
+      "blocks": {
+        "column_6BKAqb": {
+          "type": "_column",
+          "settings": {
+            "width": 100,
+            "padding": "",
+            "margin": "",
+            "width_lap": 100,
+            "width_tab": 100,
+            "width_mobi": 100
+          },
+          "blocks": {
+            "title_ThJCj7": {
+              "type": "title",
+              "settings": {
+                "heading_size": "h3",
+                "title": "Testimonial",
+                "font": "--font-family-second",
+                "color": "#000000",
+                "font_size": 35,
+                "line_height": 45,
+                "letter_spacing": 0,
+                "font_weight": "400",
+                "align": "center",
+                "padding": "",
+                "margin": "0",
+                "color_mobi": "#000000",
+                "font_size_mobi": 25,
+                "line_height_mobi": 30,
+                "letter_spacing_mobi": 0,
+                "align_mobi": "center"
+              }
+            }
+          },
+          "block_order": [
+            "title_ThJCj7"
+          ]
+        }
+      },
+      "block_order": [
+        "column_6BKAqb"
+      ],
+      "settings": {
+        "max_width": "",
+        "fullwidth": true,
+        "background_color": "",
+        "background_fixed": false,
+        "background_size": "cover",
+        "background_pos": "center center",
+        "padding": "",
+        "margin": "0 0 90px | | | 0 0 50px",
+        "vertical_align": "top",
+        "horizontal_align": "left"
+      }
+    },
+    "about_testimonials_9nUbV9": {
+      "type": "about-testimonials",
+      "blocks": {
+        "testimonial_ewMDe3": {
+          "type": "testimonial",
+          "settings": {
+            "show_image": true,
+            "image": "shopify://shop_images/test-1.png",
+            "show_name": true,
+            "name": "LUCA MORETTI - MUSICIAN",
+            "show_title": false,
+            "title": "",
+            "show_review": true,
+            "review": "\"Delighted with my recent jewelry acquisition!<br>\nThe attention to detail and exquisite design<br>\nmake this piece...",
+            "show_rating": true,
+            "rating": "4"
+          }
+        },
+        "testimonial_CrgFQV": {
+          "type": "testimonial",
+          "settings": {
+            "show_image": true,
+            "image": "shopify://shop_images/test-2.png",
+            "show_name": true,
+            "name": "LINDA - DESIGN",
+            "show_title": false,
+            "title": "",
+            "show_review": true,
+            "review": "\"Delighted with my recent jewelry acquisition!<br>\nThe attention to detail and exquisite design<br>\nmake this piece...",
+            "show_rating": true,
+            "rating": "5"
+          }
+        },
+        "testimonial_6RBLTV": {
+          "type": "testimonial",
+          "settings": {
+            "show_image": true,
+            "image": "shopify://shop_images/test-3.png",
+            "show_name": true,
+            "name": "ANN SMITH - CEO & FOUNDER",
+            "show_title": false,
+            "title": "Heading",
+            "show_review": true,
+            "review": "\"Delighted with my recent jewelry acquisition!<br>\nThe attention to detail and exquisite design<br>\nmake this piece...",
+            "show_rating": true,
+            "rating": "5"
+          }
+        },
+        "testimonial_RW8brJ": {
+          "type": "testimonial",
+          "settings": {
+            "show_image": true,
+            "image": "shopify://shop_images/test-4.png",
+            "show_name": true,
+            "name": "ANANA - PHOTOGRAPHER",
+            "show_title": false,
+            "title": "Heading",
+            "show_review": true,
+            "review": "\"Delighted with my recent jewelry acquisition!<br>\nThe attention to detail and exquisite design<br>\nmake this piece...",
+            "show_rating": true,
+            "rating": "5"
+          }
+        },
+        "css_iy9EEU": {
+          "type": "css",
+          "settings": {
+            "text_align": "left",
+            "color_heading": "#000000",
+            "font_size_heading": 30,
+            "line_height_heading": 40,
+            "font_weight_heading": "400",
+            "margin_heading": "0px 0px 0px 0px",
+            "color_review": "#000000",
+            "font_size_review": 15,
+            "line_height_review": 28,
+            "font_weight_review": "400",
+            "margin_review": "0px 0px 15px 0px",
+            "color_title": "#000000",
+            "font_size_title": 16,
+            "line_height_title": 22,
+            "font_weight_title": "500",
+            "letter_spacing_title": 0,
+            "margin_title": "0px 0px 0px 0px",
+            "font_name": "HelveticaNeueRoman",
+            "color_name": "#000000",
+            "font_size_name": 15,
+            "line_height_name": 20,
+            "font_weight_name": "500",
+            "letter_spacing_name": 0,
+            "width_avatar": 120,
+            "border_avatar": "0px 0px 0px 0px",
+            "font_size_heading_mobi": 25,
+            "line_height_heading_mobi": 30,
+            "margin_heading_mobi": "0px 0px 0px 0px",
+            "font_size_review_mobi": 16,
+            "line_height_review_mobi": 26,
+            "font_size_title_mobi": 14,
+            "line_height_title_mobi": 22,
+            "font_size_name_mobi": 14,
+            "line_height_name_mobi": 22,
+            "width_avatar_mobi": 80
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_ewMDe3",
+        "testimonial_CrgFQV",
+        "testimonial_6RBLTV",
+        "testimonial_RW8brJ",
+        "css_iy9EEU"
+      ],
+      "settings": {
+        "background": "",
+        "bg_fixed": false,
+        "bg_position": "center",
+        "bg_size": "cover",
+        "bg_width": "full",
+        "max_width": "1770px",
+        "fullwidth": false,
+        "padding": "0 15px | 0",
+        "margin": "0 0 100px | | | 0 0 40px",
+        "heading": "",
+        "navigation": false,
+        "pagination": true,
+        "infinite": true,
+        "autoplay": false,
+        "autoplay_speed": "10000",
+        "columns": 3,
+        "column1440": 3,
+        "column1": 2,
+        "column2": 2,
+        "column3": 1,
+        "column4": 1
+      }
+    },
+    "featured_custom_section_63U3XL": {
+      "type": "featured-custom-section",
+      "blocks": {
+        "column_Eh8T9j": {
+          "type": "_column",
+          "settings": {
+            "width": 100,
+            "padding": "0 15px",
+            "margin": "",
+            "width_lap": 100,
+            "width_tab": 100,
+            "width_mobi": 100
+          },
+          "blocks": {
+            "title_m836Tf": {
+              "type": "title",
+              "settings": {
+                "heading_size": "h3",
+                "title": "Our Instagram",
+                "font": "--font-family-second",
+                "color": "#000000",
+                "font_size": 35,
+                "line_height": 45,
+                "letter_spacing": 0,
+                "font_weight": "400",
+                "align": "center",
+                "padding": "",
+                "margin": "0px 0px 15px 0px | | | 0 0 10px",
+                "color_mobi": "#000000",
+                "font_size_mobi": 25,
+                "line_height_mobi": 35,
+                "letter_spacing_mobi": 0,
+                "align_mobi": "center"
+              }
+            },
+            "text_block_BjBWMy": {
+              "type": "text-block",
+              "settings": {
+                "title": "#ADENASHOP",
+                "font": "--font-family-base",
+                "color": "#63512d",
+                "font_size": 15,
+                "line_height": 20,
+                "letter_spacing": 0,
+                "font_weight": "400",
+                "align": "center",
+                "padding": "",
+                "margin": "0",
+                "color_mobi": "#63512d",
+                "font_size_mobi": 14,
+                "line_height_mobi": 20,
+                "letter_spacing_mobi": 0,
+                "align_mobi": "center"
+              }
+            }
+          },
+          "block_order": [
+            "title_m836Tf",
+            "text_block_BjBWMy"
+          ]
+        }
+      },
+      "block_order": [
+        "column_Eh8T9j"
+      ],
+      "settings": {
+        "max_width": "1470px",
+        "fullwidth": false,
+        "background_color": "#F6F3EF",
+        "background_fixed": false,
+        "background_size": "cover",
+        "background_pos": "center center",
+        "padding": "70px 0 45px",
+        "margin": "",
+        "vertical_align": "top",
+        "horizontal_align": "left"
+      }
+    },
+    "featured_instagram_shop_pwcDNW": {
+      "type": "featured-instagram-shop",
+      "blocks": {
+        "image_JxezKU": {
+          "type": "image",
+          "settings": {
+            "name": "",
+            "image": "shopify://shop_images/insta-1.jpg",
+            "url_lookbook": "#"
+          }
+        },
+        "image_yPQpiJ": {
+          "type": "image",
+          "settings": {
+            "name": "",
+            "image": "shopify://shop_images/insta-2.jpg",
+            "url_lookbook": "#"
+          }
+        },
+        "image_NTdrH4": {
+          "type": "image",
+          "settings": {
+            "name": "",
+            "image": "shopify://shop_images/insta-3.jpg",
+            "url_lookbook": "#"
+          }
+        },
+        "image_6Qgq7z": {
+          "type": "image",
+          "settings": {
+            "name": "",
+            "image": "shopify://shop_images/insta-4.jpg",
+            "url_lookbook": "#"
+          }
+        },
+        "image_NMNVcP": {
+          "type": "image",
+          "settings": {
+            "name": "",
+            "image": "shopify://shop_images/insta-5.jpg",
+            "url_lookbook": "#"
+          }
+        }
+      },
+      "block_order": [
+        "image_JxezKU",
+        "image_yPQpiJ",
+        "image_NTdrH4",
+        "image_6Qgq7z",
+        "image_NMNVcP"
+      ],
+      "settings": {
+        "color_bg": "#f6f3ef",
+        "width_bg": "full",
+        "padding_bg": "",
+        "max_width": "1770px",
+        "fullwidth": false,
+        "padding": "0 0 28px",
+        "margin": "",
+        "margin_content": "0 -15px 0 -15px | 0 -7.5px",
+        "padding_item": "0 15px 0 15px | 0 7.5px",
+        "margin_item": "0 0 0px 0",
+        "navigation": false,
+        "pagination": false,
+        "infinite": true,
+        "autoplay": true,
+        "autoplay_speed": "10000",
+        "rows": 1,
+        "columns": 4,
+        "column1440": 4,
+        "column1": 4,
+        "column2": 3,
+        "column3": 2,
+        "column4": 2
+      }
+    }
+  },
+  "order": [
+    "breadcrumb",
+    "main",
+    "featured_custom_section_agR8fi",
+    "featured_custom_section_XUqgnR",
+    "featured_custom_section_rnPam4",
+    "featured_custom_section_CWTnKi",
+    "about_testimonials_9nUbV9",
+    "featured_custom_section_63U3XL",
+    "featured_instagram_shop_pwcDNW"
+  ]
+}

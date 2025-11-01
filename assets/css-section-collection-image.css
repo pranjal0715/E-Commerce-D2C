@@ -1,0 +1,29 @@
+.wpbingo-widget--collections-image .collection-item {
+  position: relative;
+}
+.wpbingo-widget--collections-image .collection-item__title {
+  position:absolute;
+  bottom: 0;
+  left: 0;
+  padding: 0 45px 50px;
+  width: 100%;
+}
+.wpbingo-widget--collections-image .collection-item__title a{
+  display: inline-block;
+}
+.wpbingo-widget--collections-image .slick-arrow {
+  top: calc(50% - 23px);
+}
+@media (min-width: 1200px) {
+  .wpbingo-widget--collections-image .slick-list {
+    margin: 0 -12.5px;
+  }
+  .wpbingo-widget--collections-image .slick-slide {
+    padding: 0 12.5px;
+  }
+}
+@media (max-width: 1199px){
+  .wpbingo-widget--collections-image .collection-item__title {
+    padding: 0 30px 40px;
+  }
+}

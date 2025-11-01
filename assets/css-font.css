@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Canela Light";
+    src: url('./Canela-Light.ttf') format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "HelveticaNeueLight";
+    src: url('./HelveticaNeueLight.otf') format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "HelveticaNeueRoman";
+    src: url('./HelveticaNeueRoman.otf') format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "HelveticaNeueMedium";
+    src: url('./HelveticaNeueMedium.otf') format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}

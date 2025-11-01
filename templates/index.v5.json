@@ -1,0 +1,138 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured_custom_section_m8mUG6": {
+      "type": "custom-section-benifits",
+      "blocks": {
+        "column_AwnBnJ": {
+          "type": "_column",
+          "settings": {
+            "width": 40,
+            "padding": "0 45px | 0 15px",
+            "margin": "",
+            "width_lap": 50,
+            "width_tab": 70,
+            "width_mobi": 100
+          },
+          "blocks": {
+            "title_mDQ8Rp": {
+              "type": "title",
+              "settings": {
+                "heading_size": "h3",
+                "title": "Stylish Ear Statements",
+                "font": "--font-family-second",
+                "color": "#ffffff",
+                "font_size": 45,
+                "line_height": 55,
+                "letter_spacing": 0,
+                "font_weight": "300",
+                "align": "left",
+                "padding": "",
+                "margin": "0px 0px 32px 0px | | | 0 0 10px",
+                "color_mobi": "#ffffff",
+                "font_size_mobi": 25,
+                "line_height_mobi": 35,
+                "letter_spacing_mobi": 0,
+                "align_mobi": "left"
+              }
+            },
+            "text_block_3wk4WY": {
+              "type": "text-block",
+              "settings": {
+                "title": "Refer To Contemporary Earring Designs That Embody Current Trends And Styles. These Earrings Often Feature…",
+                "font": "--font-family-base",
+                "color": "#ffffff",
+                "font_size": 16,
+                "line_height": 26,
+                "letter_spacing": 0,
+                "font_weight": "400",
+                "align": "left",
+                "padding": "",
+                "margin": "0 0 60px | | | 0 0 30px",
+                "color_mobi": "#ffffff",
+                "font_size_mobi": 15,
+                "line_height_mobi": 20,
+                "letter_spacing_mobi": 0,
+                "align_mobi": "left"
+              }
+            },
+            "button_C7ahmL": {
+              "type": "button",
+              "settings": {
+                "title": "Shop Now",
+                "font": "--font-family-base",
+                "icon_title": "",
+                "font_icon": 14,
+                "margin_icon": 0,
+                "button_link": "",
+                "border_radius": "0px 0px 0px 0px",
+                "border": true,
+                "border_width": "1px",
+                "color": "#fff",
+                "background": "rgba(0,0,0,0)",
+                "border_color": "#fff",
+                "color_hover": "#fff",
+                "background_hover": "#63512d",
+                "border_color_hover": "#63512d",
+                "font_size": 15,
+                "line_height": 45,
+                "letter_spacing": 0,
+                "font_weight": "400",
+                "padding": "0 40px | | | 0 25px",
+                "margin": "",
+                "align": "left",
+                "font_size_mobi": 14,
+                "font_icon_mobi": 14,
+                "margin_icon_mobi": 0,
+                "line_height_mobi": 40,
+                "letter_spacing_mobi": 0,
+                "border_radius_mobi": "0px 0px 0px 0px",
+                "border_mobi": true,
+                "border_width_mobi": "1px",
+                "color_mobi": "#fff",
+                "background_mobi": "rgba(0,0,0,0)",
+                "border_color_mobi": "#fff",
+                "color_hover_mobi": "#fff",
+                "background_hover_mobi": "#63512d",
+                "border_color_hover_mobi": "#63512d",
+                "align_mobi": "left"
+              }
+            }
+          },
+          "block_order": [
+            "title_mDQ8Rp",
+            "text_block_3wk4WY",
+            "button_C7ahmL"
+          ]
+        }
+      },
+      "block_order": [
+        "column_AwnBnJ"
+      ],
+      "settings": {
+        "max_width": "",
+        "fullwidth": false,
+        "background_color": "",
+        "background": "shopify://shop_images/bg-1.jpg",
+        "background_fixed": false,
+        "background_size": "cover",
+        "background_pos": "center center",
+        "padding": "275px 0 | | 150px 0 | 70px 0",
+        "margin": "0 0 90px | | | 0 0 40px",
+        "vertical_align": "top",
+        "horizontal_align": "right"
+      }
+    }
+  },
+  "order": [
+    "featured_custom_section_m8mUG6"
+  ]
+}
